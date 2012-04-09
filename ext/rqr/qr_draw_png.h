@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include "qr_draw.h"
-
+#include "zlib.h"
 #ifdef USE_PNG
 	#include <png.h>
 #endif
